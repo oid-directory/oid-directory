@@ -12,5 +12,5 @@ This OID Directory ID series, written by [Jesse Coretta](mailto:jesse.coretta@ic
 
 ### Repositories
 
- - [id](https://github.com/oid-directory/id) (_Document management_)
+ - [id](https://github.com/oid-directory/id) (_Document Management_)
  - [definitions](https://github.com/oid-directory/definitions) (_Schema Definitions_)
