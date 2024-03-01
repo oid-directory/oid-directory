@@ -1,16 +1,16 @@
-### Hi there 👋
+## The OID Directory
 
-<!--
-**oid-directory/oid-directory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This OID Directory ID series, written by [Jesse Coretta](mailto:jesse.coretta@icloud.com), outlines a series of experimental standards documents which define the abstracts of the "OID Directory": a proposed philosophy and set of procedures used to facilitate the storage and management of the "OID spectrum" -- in part or in whole -- within an X.500/LDAP service implementation.
 
-Here are some ideas to get you started:
+### ID Series
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - [`draft-coretta-oiddir-roadmap`](https://datatracker.ietf.org/doc/html/draft-coretta-oiddir-roadmap)
+ - [`draft-coretta-oiddir-schema`](https://datatracker.ietf.org/doc/html/draft-coretta-oiddir-schema)
+ - [`draft-coretta-oiddir-radit`](https://datatracker.ietf.org/doc/html/draft-coretta-oiddir-radit)
+ - [`draft-coretta-oiddir-radsa`](https://datatracker.ietf.org/doc/html/draft-coretta-oiddir-radsa)
+ - [`draft-coretta-oiddir-radua`](https://datatracker.ietf.org/doc/html/draft-coretta-oiddir-radua)
+
+### Repositories
+
+ - [id](https://github.com/oid-directory/id) (_Document management_)
+ - [definitions](https://github.com/oid-directory/definitions) (_Schema Definitions_)
