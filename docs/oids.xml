@@ -1,0 +1,146 @@
+<?xml-stylesheet type="text/xsl" href="oids.xsl"?>
+<OIDBranch ID="The OID Directory 1.3.6.1.4.1.56521.101">
+  <Arc ID="schema (2)" OID="1.3.6.1.4.1.56521.101.2" SUP="oid-directory (101)">
+    <Arc ID="attributeTypes (3)" OID="1.3.6.1.4.1.56521.101.2.3" SUP="schema (2)">
+      <AttributeType>
+	<Row N="1" ID="n" SRC="schema" SECTION="2.3."></Row>
+	<Row N="2" ID="dotNotation" SRC="schema" SECTION="2.3."></Row>
+	<Row N="3" ID="iRI" SRC="schema" SECTION="2.3."></Row>
+	<Row N="4" ID="aSN1Notation" SRC="schema" SECTION="2.3."></Row>
+	<Row N="5" ID="unicodeValue" SRC="schema" SECTION="2.3."></Row>
+	<Row N="6" ID="additionalUnicodeValue" SRC="schema" SECTION="2.3."></Row>
+	<Row N="7" ID="identifier" SRC="schema" SECTION="2.3."></Row>
+	<Row N="8" ID="secondaryIdentifier" SRC="schema" SECTION="2.3."></Row>
+	<Row N="9" ID="registrationInformation" SRC="schema" SECTION="2.3."></Row>
+	<Row N="10" ID="registrationURI" SRC="schema" SECTION="2.3."></Row>
+	<Row N="11" ID="registrationCreated" SRC="schema" SECTION="2.3."></Row>
+	<Row N="12" ID="registrationModified" SRC="schema" SECTION="2.3."></Row>
+	<Row N="13" ID="registrationRange" SRC="schema" SECTION="2.3."></Row>
+	<Row N="14" ID="registrationStatus" SRC="schema" SECTION="2.3."></Row>
+	<Row N="15" ID="registrationClassification" SRC="schema" SECTION="2.3."></Row>
+	<Row N="16" ID="isLeafNode" SRC="schema" SECTION="2.3."></Row>
+	<Row N="17" ID="isFrozen" SRC="schema" SECTION="2.3."></Row>
+	<Row N="18" ID="standardizedNameForm" SRC="schema" SECTION="2.3."></Row>
+	<Row N="19" ID="nameAndNumberForm" SRC="schema" SECTION="2.3."></Row>
+	<Row N="20" ID="longArc" SRC="schema" SECTION="2.3."></Row>
+	<Row N="21" ID="supArc" SRC="schema" SECTION="2.3."></Row>
+	<Row N="22" ID="c-supArc" SRC="schema" SECTION="2.3."></Row>
+	<Row N="23" ID="topArc" SRC="schema" SECTION="2.3."></Row>
+	<Row N="24" ID="c-topArc" SRC="schema" SECTION="2.3."></Row>
+	<Row N="25" ID="subArc" SRC="schema" SECTION="2.3."></Row>
+	<Row N="26" ID="leftArc" SRC="schema" SECTION="2.3."></Row>
+	<Row N="27" ID="minArc" SRC="schema" SECTION="2.3."></Row>
+	<Row N="28" ID="c-minArc" SRC="schema" SECTION="2.3."></Row>
+	<Row N="29" ID="rightArc" SRC="schema" SECTION="2.3."></Row>
+	<Row N="30" ID="maxArc" SRC="schema" SECTION="2.3."></Row>
+	<Row N="31" ID="c-maxArc" SRC="schema" SECTION="2.3."></Row>
+	<Row N="32" ID="discloseTo" SRC="schema" SECTION="2.3."></Row>
+	<Row N="33" ID="c-discloseTo" SRC="schema" SECTION="2.3."></Row>
+	<Row N="34" ID="registrantID" SRC="schema" SECTION="2.3."></Row>
+	<Row N="35" ID="currentAuthority" SRC="schema" SECTION="2.3."></Row>
+	<Row N="36" ID="c-currentAuthority" SRC="schema" SECTION="2.3."></Row>
+	<Row N="37" ID="currentAuthorityStartTimestamp" SRC="schema" SECTION="2.3."></Row>
+	<Row N="38" ID="currentAuthorityCommonName" SRC="schema" SECTION="2.3."></Row>
+	<Row N="39" ID="currentAuthorityCountryCode" SRC="schema" SECTION="2.3."></Row>
+	<Row N="40" ID="currentAuthorityCountryCode" SRC="schema" SECTION="2.3."></Row>
+	<Row N="41" ID="currentAuthorityEmail" SRC="schema" SECTION="2.3."></Row>
+	<Row N="42" ID="currentAuthorityFax" SRC="schema" SECTION="2.3."></Row>
+	<Row N="43" ID="currentAuthorityLocality" SRC="schema" SECTION="2.3."></Row>
+	<Row N="44" ID="currentAuthorityMobile" SRC="schema" SECTION="2.3."></Row>
+	<Row N="45" ID="currentAuthorityOrg" SRC="schema" SECTION="2.3."></Row>
+	<Row N="46" ID="currentAuthorityPOBox" SRC="schema" SECTION="2.3."></Row>
+	<Row N="47" ID="currentAuthorityPostalAddress" SRC="schema" SECTION="2.3."></Row>
+	<Row N="48" ID="currentAuthorityPostalCode" SRC="schema" SECTION="2.3."></Row>
+	<Row N="49" ID="currentAuthorityState" SRC="schema" SECTION="2.3."></Row>
+	<Row N="50" ID="currentAuthorityStreet" SRC="schema" SECTION="2.3."></Row>
+	<Row N="51" ID="currentAuthorityTelephone" SRC="schema" SECTION="2.3."></Row>
+	<Row N="52" ID="currentAuthorityTitle" SRC="schema" SECTION="2.3."></Row>
+	<Row N="53" ID="currentAuthorityURI" SRC="schema" SECTION="2.3."></Row>
+	<Row N="54" ID="firstAuthority" SRC="schema" SECTION="2.3."></Row>
+	<Row N="55" ID="c-firstAuthority" SRC="schema" SECTION="2.3."></Row>
+	<Row N="56" ID="firstAuthorityStartTimestamp" SRC="schema" SECTION="2.3."></Row>
+	<Row N="57" ID="firstAuthorityEndTimestamp" SRC="schema" SECTION="2.3."></Row>
+	<Row N="58" ID="firstAuthorityCommonName" SRC="schema" SECTION="2.3."></Row>
+	<Row N="59" ID="firstAuthorityCountryCode" SRC="schema" SECTION="2.3."></Row>
+	<Row N="60" ID="firstAuthorityCountryName" SRC="schema" SECTION="2.3."></Row>
+	<Row N="61" ID="firstAuthorityEmail" SRC="schema" SECTION="2.3."></Row>
+	<Row N="62" ID="firstAuthorityFax" SRC="schema" SECTION="2.3."></Row>
+	<Row N="63" ID="firstAuthorityLocality" SRC="schema" SECTION="2.3."></Row>
+	<Row N="64" ID="firstAuthorityMobile" SRC="schema" SECTION="2.3."></Row>
+	<Row N="65" ID="firstAuthorityOrg" SRC="schema" SECTION="2.3."></Row>
+	<Row N="66" ID="firstAuthorityPOBox" SRC="schema" SECTION="2.3."></Row>
+	<Row N="67" ID="firstAuthorityPostalAddress" SRC="schema" SECTION="2.3."></Row>
+	<Row N="68" ID="firstAuthorityPostalCode" SRC="schema" SECTION="2.3."></Row>
+	<Row N="69" ID="firstAuthorityState" SRC="schema" SECTION="2.3."></Row>
+	<Row N="70" ID="firstAuthorityStreet" SRC="schema" SECTION="2.3."></Row>
+	<Row N="71" ID="firstAuthorityTelephone" SRC="schema" SECTION="2.3."></Row>
+	<Row N="72" ID="firstAuthorityTitle" SRC="schema" SECTION="2.3."></Row>
+	<Row N="73" ID="firstAuthorityURI" SRC="schema" SECTION="2.3."></Row>
+	<Row N="74" ID="sponsor" SRC="schema" SECTION="2.3."></Row>
+	<Row N="75" ID="c-sponsor" SRC="schema" SECTION="2.3."></Row>
+	<Row N="76" ID="sponsorStartTimestamp" SRC="schema" SECTION="2.3."></Row>
+	<Row N="77" ID="sponsorEndTimestamp" SRC="schema" SECTION="2.3."></Row>
+	<Row N="78" ID="sponsorCommonName" SRC="schema" SECTION="2.3."></Row>
+	<Row N="79" ID="sponsorCountryCode" SRC="schema" SECTION="2.3."></Row>
+	<Row N="80" ID="sponsorCountryName" SRC="schema" SECTION="2.3."></Row>
+	<Row N="81" ID="sponsorEmail" SRC="schema" SECTION="2.3."></Row>
+	<Row N="82" ID="sponsorFax" SRC="schema" SECTION="2.3."></Row>
+	<Row N="83" ID="sponsorLocality" SRC="schema" SECTION="2.3."></Row>
+	<Row N="84" ID="sponsorMobile" SRC="schema" SECTION="2.3."></Row>
+	<Row N="85" ID="sponsorOrg" SRC="schema" SECTION="2.3."></Row>
+	<Row N="86" ID="sponsorPOBox" SRC="schema" SECTION="2.3."></Row>
+	<Row N="87" ID="sponsorPostalAddress" SRC="schema" SECTION="2.3."></Row>
+	<Row N="88" ID="sponsorPostalCode" SRC="schema" SECTION="2.3."></Row>
+	<Row N="89" ID="sponsorState" SRC="schema" SECTION="2.3."></Row>
+	<Row N="90" ID="sponsorStreet" SRC="schema" SECTION="2.3."></Row>
+	<Row N="91" ID="sponsorTelephone" SRC="schema" SECTION="2.3."></Row>
+	<Row N="92" ID="sponsorTitle" SRC="schema" SECTION="2.3."></Row>
+	<Row N="93" ID="sponsorURI" SRC="schema" SECTION="2.3."></Row>
+	<Row N="94" ID="rADITProfile" SRC="schema" SECTION="2.3."></Row>
+	<Row N="95" ID="rARegistrationBase" SRC="schema" SECTION="2.3."></Row>
+	<Row N="96" ID="rARegistrantBase" SRC="schema" SECTION="2.3."></Row>
+	<Row N="97" ID="rADirectoryModel" SRC="schema" SECTION="2.3."></Row>
+	<Row N="98" ID="rAServiceMail" SRC="schema" SECTION="2.3."></Row>
+	<Row N="99" ID="rAServiceURI" SRC="schema" SECTION="2.3."></Row>
+	<Row N="100" ID="rATTL" SRC="schema" SECTION="2.3."></Row>
+	<Row N="101" ID="c-rATTL" SRC="schema" SECTION="2.3."></Row>
+	<Row N="102" ID="registeredUUID" SRC="schema" SECTION="2.3."></Row>
+      </AttributeType>
+  </Arc>
+  <Arc ID="objectClasses (5)" OID="1.3.6.1.4.1.56521.101.2.5" SUP="schema (2)">
+      <ObjectClass>
+	<Row N="1" ID="registration" SRC="schema" SECTION="2.5."></Row>
+	<Row N="2" ID="rootArc" SRC="schema" SECTION="2.5."></Row>
+	<Row N="3" ID="arc" SRC="schema" SECTION="2.5."></Row>
+	<Row N="4" ID="x660Context" SRC="schema" SECTION="2.5."></Row>
+	<Row N="5" ID="x667Context" SRC="schema" SECTION="2.5."></Row>
+	<Row N="6" ID="x680Context" SRC="schema" SECTION="2.5."></Row>
+	<Row N="7" ID="iTUTRegistration" SRC="schema" SECTION="2.5."></Row>
+	<Row N="8" ID="iSORegistration" SRC="schema" SECTION="2.5."></Row>
+	<Row N="9" ID="jointISOITUTRegistration" SRC="schema" SECTION="2.5."></Row>
+	<Row N="10" ID="spatialContext" SRC="schema" SECTION="2.5."></Row>
+	<Row N="11" ID="registrationSupplement" SRC="schema" SECTION="2.5."></Row>
+	<Row N="12" ID="firstAuthorityContext" SRC="schema" SECTION="2.5."></Row>
+	<Row N="13" ID="currentAuthorityContext" SRC="schema" SECTION="2.5."></Row>
+	<Row N="14" ID="sponsorContext" SRC="schema" SECTION="2.5."></Row>
+	<Row N="15" ID="registrant" SRC="schema" SECTION="2.5."></Row>
+	<Row N="16" ID="rADUAConfig" SRC="schema" SECTION="2.5."></Row>
+      </ObjectClass>
+  </Arc>
+  <Arc ID="nameForms (7)" OID="1.3.6.1.4.1.56521.101.2.7" SUP="schema (2)">
+      <NameForm>
+	<Row N="1" ID="nRootArcForm" SRC="schema" SECTION="2.7."></Row>
+	<Row N="2" ID="nArcForm" SRC="schema" SECTION="2.7."></Row>
+	<Row N="3" ID="dotNotationArcForm" SRC="schema" SECTION="2.7."></Row>
+      </NameForm>
+  </Arc>
+  </Arc>
+  <Arc ID="rA-DIT (3)" OID="1.3.6.1.4.1.56521.101.3" SUP="oid-directory (101)">
+    <Arc ID="models (1)" OID="1.3.6.1.4.1.56521.101.3.1" SUP="rA-DIT (3)">
+      <Model>
+        <Row N="2" ID="twoDimensional" SRC="radit" SECTION="3.1."></Row>
+        <Row N="3" ID="threeDimensional" SRC="radit" SECTION="3.1."></Row>
+      </Model>
+    </Arc>
+  </Arc>
+</OIDBranch>
