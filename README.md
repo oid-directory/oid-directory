@@ -1,6 +1,6 @@
 ## The OID Directory
 
-This OID Directory ID series, written by [Jesse Coretta](mailto:jesse.coretta@icloud.com), outlines a series of experimental standards documents which define the abstracts of the "OID Directory": a proposed philosophy and set of procedures used to facilitate the storage and management of the "OID spectrum" -- in part or in whole -- within an X.500/LDAP service implementation.
+This OID Directory ID series, written by [Jesse Coretta](mailto:jesse.coretta@icloud.com), outlines a series of experimental standards documents which define the abstracts of the "OID Directory": a proposed philosophy and set of procedures used to facilitate the storage and management of the "OID tree" -- in part or in whole -- within an X.500/LDAP service implementation.
 
 ### ID Series
 
