@@ -15,3 +15,4 @@ This OID Directory ID series, written by [Jesse Coretta](mailto:jesse.coretta@ic
    - [I-Ds (copies of official releases)](https://github.com/oid-directory/id)
    - [I-Ds (pending releases)](https://github.com/oid-directory/id/tree/next)
    - [Schema definitions](https://github.com/oid-directory/definitions)
+   - [Gists (extra goodies)](https://gist.github.com/oid-directory)
