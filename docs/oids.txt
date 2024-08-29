@@ -12,11 +12,11 @@ V - Predefined Attribute Value
 ##################
 ## I-D References
 
-  - RA DIR (roadmap, ToC) - https://datatracker.ietf.org/doc/html/draft-coretta-oiddir-roadmap
-  - RA SCHEMA		  - https://datatracker.ietf.org/doc/html/draft-coretta-oiddir-schema
-  - RA DIT 		  - https://datatracker.ietf.org/doc/html/draft-coretta-oiddir-radit
-  - RA DSA 		  - https://datatracker.ietf.org/doc/html/draft-coretta-oiddir-radsa
-  - RA DUA 		  - https://datatracker.ietf.org/doc/html/draft-coretta-oiddir-radua
+  - RADIR (roadmap, ToC) - https://datatracker.ietf.org/doc/html/draft-coretta-oiddir-roadmap
+  - RASCHEMA		  - https://datatracker.ietf.org/doc/html/draft-coretta-oiddir-schema
+  - RADIT 		  - https://datatracker.ietf.org/doc/html/draft-coretta-oiddir-radit
+  - RADSA 		  - https://datatracker.ietf.org/doc/html/draft-coretta-oiddir-radsa
+  - RADUA 		  - https://datatracker.ietf.org/doc/html/draft-coretta-oiddir-radua
 
 
 ##################
@@ -46,13 +46,13 @@ Note that the 'rADirectoryModel' is extensible; other authors of any
 future I-Ds may extend the acceptable values to include other OIDs.
 
 
-########################
-## RA SCHEMA Allocations
+###########################
+## RASCHEMA I-D Allocations
 
 See Section 2 of the RA SCHEMA I-D for the official definitions.
 
-Note that the final three (3) arcs of each A/O OID represent the section
-numbers of origin within indicated document above. For instance, Section
+Note that the final three (3) arcs of each A/O/N OID represent the section
+numbers of origin within indicated document above.  For instance, Section
 2.3.4 of the RASCHEMA I-D contains the official 'aSN1Notation' definition.
 
 NAME                           Type OID
